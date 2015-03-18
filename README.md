@@ -5,14 +5,6 @@ Use Google to find free music, tv shows, movies, anime, torrents, comics, books 
 ## Contribute
 You can contribute to Google Pirate Extended v4 by different means. You can help find bugs (and report them in the [issue tracker](https://github.com/teocci/GooglePirateExtended/issues).
 
-## Build
-Google Pirate Extended v4 is using the build system [Ant](http://ant.apache.org/).
-
-### Base requirements
- * Desktop Computer
- * [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
- * [Ant](http://ant.apache.org/)
-
 ### Optional requirements
 To build the Chrome extension it is required to be able to run executable, which can be done in Wine on Linux or on a Windows computer.
 
@@ -50,9 +42,6 @@ The keys in this file have the prefix and suffix `@`.
  * `firefox-target-id` -- Used in the Firefox extension manifest to specify which platform the extension is targeted towards.
  * `firefox-target-min-version` -- The minimum version of the targeted platform.
  * `firefox-target-max-version` -- The maximum version of the targeted platform.
- * `firefox-target-mobile-id` -- The mobile platform id.
- * `firefox-target-mobile-min-version` -- The minimum version of the mobile platform.
- * `firefox-target-mobile-max-version` -- The maximum version of the mobile platform.
  * `firefox-update-link` -- The location of the newest version of the developer version of Google Pirate Extended v4 for Firefox is located.
  * `firefox-update-rdf` -- The location of the file, which Firefox uses to check if a new version of the developer version of Google Pirate Extended v4 is available.
  * `chrome-id` -- The id of the Chrome extension. The id can be found in `chrome://extensions/` or calculated from the signing key.
