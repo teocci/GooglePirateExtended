@@ -42,6 +42,7 @@
 // @updateURL       https://openuserjs.org/scripts/teocci/GooglePirateExtendedv4.meta.js
 // @downloadURL     https://openuserjs.org/scripts/teocci/GooglePirateExtendedv4.user.js
 // @run-at          document-start
+// @updateVersion   155
 // @priority        9001
 // @contributionURL https://github.com/teocci/GooglePirateExtended/wiki/Donate
 // @license         MIT
