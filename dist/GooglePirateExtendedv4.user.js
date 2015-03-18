@@ -39,10 +39,10 @@
 // @exclude		*images.google*
 // @exclude		*video.google*
 // @grant		none
-// @updateURL       https://openuserjs.org/scripts/teocci/GooglePirateExtendedv4.meta.js
-// @downloadURL     https://openuserjs.org/scripts/teocci/GooglePirateExtendedv4.user.js
+// @updateURL       https://raw.githubusercontent.com/teocci/GooglePirateExtended/master/dist/GooglePirateExtendedv4.meta.js
+// @downloadURL     https://raw.githubusercontent.com/teocci/GooglePirateExtended/master/dist/GooglePirateExtendedv4.user.js
 // @run-at          document-start
-// @updateVersion   155
+// @updateVersion   15
 // @priority        9001
 // @contributionURL https://github.com/teocci/GooglePirateExtended/wiki/Donate
 // @license         MIT
